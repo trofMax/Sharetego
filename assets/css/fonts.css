@@ -1,0 +1,4 @@
+@font-face {font-family: 'hvd poster';font-style: normal;font-weight: normal;src: local('HVD Poster'), url('../fonts/HVD_Poster.woff') format('woff');}
+@font-face {font-family: 'Gilroy Light';src: url('../fonts/Gilroy-Light.woff') format('woff');font-weight: normal;font-style: normal;}
+@font-face {font-family: 'Gilroy Bold';src: url('../fonts/Gilroy-Bold.woff') format('woff');font-weight: normal;font-style: normal;}
+@font-face {font-family: 'Gilroy Regular';src: url('../fonts/Gilroy-Regular.woff') format('woff');font-weight: normal;font-style: normal;}
